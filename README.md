@@ -8,6 +8,7 @@
 * Supports a varied range of Programing aids like Interfaces, Classes, Collections, Generics and Optional typing
 * Extensively used to create SPA
  
+ ### Features of Dart & JavaScript
  Features | Dart | Javascript
  -------- | ---- | ----------
  Type System | Optional, Dynamic | Weak, Dynamic
