@@ -1,7 +1,7 @@
 # DART
 
 * Dart is a General Purpose Programming Language.
-* Dart is Open Sourcs
+* Dart is Open Source.
 * Developed by __Google__.
 * Client-Optimized language for fast apps on any platform.
 * Object_orientd Language with C-style syntax which can optionally trans compile into JS
