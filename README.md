@@ -4,17 +4,17 @@
 * Dart is Open Source.
 * Developed by __Google__.
 * Client-Optimized language for fast apps on any platform.
-* Object_orientd Language with C-style syntax which can optionally trans compile into JS
+* Object-Oriented Language with C-style syntax which can optionally trans compile into JS
 * Supports a varied range of Programing aids like Interfaces, Classes, Collections, Generics and Optional typing
-* Extensively used to create SPA
+* Extensively used to create SPA.
  
  ### Features of Dart & JavaScript
  Features | Dart | Javascript
  -------- | ---- | ----------
- Type System | Optional, Dynamic | Weak, Dynamic
- Classes | Yes, Single Inheritance | Prototypical
- Interfaces | Yes, Multiple Interfaces | No
- Concurrency | Yes, with isolates | Yes, with HTML5 web workers
+ **Type System** | Optional, Dynamic | Weak, Dynamic
+ **Classes** | Yes, Single Inheritance | Prototypical
+ **Interfaces** | Yes, Multiple Interfaces | No
+ **Concurrency** | Yes, with isolates | Yes, with HTML5 web workers
 
  ### Dart Syntax
  * Syntax defines a set of rules for writing Programs.
