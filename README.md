@@ -30,7 +30,7 @@
 
 ## Hello World
 ```dart
-main(){
+void main(){
     print("Hello World");
 }
 ```
